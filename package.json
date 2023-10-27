@@ -5,6 +5,7 @@
   "author": "Fahim Ahammed Firoz",
   "license": "MIT",
   "dependencies": {
+    "@faker-js/faker": "^8.2.0",
     "luxon": "^3.4.3",
     "uuid": "^9.0.1"
   }
