@@ -1,0 +1,11 @@
+{
+  "name": "initial-data",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Fahim Ahammed Firoz",
+  "license": "MIT",
+  "dependencies": {
+    "luxon": "^3.4.3",
+    "uuid": "^9.0.1"
+  }
+}
